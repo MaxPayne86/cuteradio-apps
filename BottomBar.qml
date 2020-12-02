@@ -14,7 +14,7 @@ Pane
         anchors.right: playButton.left
         anchors.top: parent.top
         anchors.bottom: parent.bottom
-        value: 0.5
+        value: player.volume
         onMoved: player.volume = volumeSlider.value
     }
 

@@ -1,4 +1,5 @@
 # Copyright (C) 2018 Burkhard Stubert
+# Modified 02/12/2020 by Massimo Pennazio maxipenna@libero.it
 cmake_minimum_required(VERSION 3.5)
 
 project(cuteradio)
